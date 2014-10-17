@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[gig:home|Door43 (gig)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-gig|d43-gig repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-gig/archive/master.zip|d43-gig.zip]]
+
+**Recent Changes**
+{{changes>ns = gig}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/gig|Ethnologue data]]
+
